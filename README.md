@@ -28,7 +28,6 @@ Basically, I like taking an idea, giving it some intelligence, and seeing what h
 
 <br/>
 
-## GitHub Stats
 
 ## 📊 GitHub Stats
 
