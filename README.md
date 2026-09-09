@@ -20,33 +20,19 @@ Basically, I like taking an idea, giving it some intelligence, and seeing what h
 
 <br/>
 
-## 🛠️ Technical Stack
+## 🛠️ Technical Arsenal
 
-**LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,c" />
-
-**FRAMEWORKS · WEB · CLOUD**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,flask,mysql,postgres,supabase,firebase,aws,vercel" />
-
-**AI / ML**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-
-**TOOLS**
-
-<img src="https://skillicons.dev/icons?i=git,github,canva" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,c,tensorflow" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,flask,mysql,postgres,supabase,firebase,aws,vercel,git,github" />
 
 <br/>
 
+## GitHub Stats
+
 ## 📊 GitHub Stats
 
-<img src="https://streak-stats.demolab.com/?user=lumina-y26&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/lumina-y26/lumina-y26/output/github-contribution-grid-snake-dark.svg" width="800" alt="Snake animation" />
+<img src="https://streak-stats.demolab.com/?user=lumina-y26&theme=highcontrast_border=true" />
 
 <br/><br/>
 
