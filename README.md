@@ -20,7 +20,7 @@ Basically, I like taking an idea, giving it some intelligence, and seeing what h
 
 <br/>
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Stack
 
 <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,c,tensorflow" />
 <br/>
