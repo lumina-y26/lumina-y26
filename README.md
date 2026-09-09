@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,35:0f2027,70:203a43,100:2c5364&height=220&text=Ujala%20Yadav&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast&descAlignY=65&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,35:0f2027,70:203a43,100:2c5364&height=220&text=Ujala%20Yadav&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Applied%20AI%20Researcher&descAlignY=65&descSize=18" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=lumina-y26&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
@@ -22,19 +22,31 @@ Basically, I like taking an idea, giving it some intelligence, and seeing what h
 
 ## 🛠️ Technical Stack
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,c,tensorflow" />
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,flask,mysql,postgres,supabase,firebase,aws,vercel,git,github" />
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,c" />
+
+**FRAMEWORKS · WEB · CLOUD**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,flask,mysql,postgres,supabase,firebase,aws,vercel" />
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+**TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,canva" />
 
 <br/>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-<img src="https://streak-stats.demolab.com/?user=lumina-y26&theme=dark&hide_border=false" />
+<img src="https://streak-stats.demolab.com/?user=lumina-y26&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-<img src="https://raw.githubusercontent.com/lumina-y26/lumina-y26/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/lumina-y26/lumina-y26/output/github-contribution-grid-snake-dark.svg" width="800" alt="Snake animation" />
 
 <br/><br/>
 
