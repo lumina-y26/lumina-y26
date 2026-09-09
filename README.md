@@ -18,7 +18,7 @@ I'm particularly interested in Generative AI, Machine Learning, AI automation, a
 
 Basically, I like taking an idea, giving it some intelligence, and seeing what happens.
 
-<br/>
+<br/><br/>
 
 ## 🛠️ Technical Arsenal
 
@@ -26,7 +26,7 @@ Basically, I like taking an idea, giving it some intelligence, and seeing what h
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,flask,mysql,postgres,supabase,firebase,aws,vercel,git,github" />
 
-<br/>
+<br/><br/>
 
 
 ## 📊 GitHub Stats
