@@ -32,7 +32,7 @@ Basically, I like taking an idea, giving it some intelligence, and seeing what h
 
 ## 📊 GitHub Stats
 
-<img src="https://streak-stats.demolab.com/?user=lumina-y26&theme=highcontrast_border=true" />
+<img src="https://streak-stats.demolab.com/?user=lumina-y26&theme=dark_border=true" />
 
 <br/><br/>
 
