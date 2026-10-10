@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,35:0f2027,70:203a43,100:2c5364&height=220&text=Ujala%20Yadav&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Applied%20AI%20Researcher&descAlignY=65&descSize=18" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=lumina-y26&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
 <br/><br/>
 
